@@ -1,2 +1,2 @@
-# Locaze-site
+# mock-site
 Mock Locaze Website
